@@ -1,0 +1,4 @@
+.app-container {
+  padding: 10px;
+  background-image: radial-gradient(circle at 0% 0%, #1c1c42, #0e0e0e 35%);
+}

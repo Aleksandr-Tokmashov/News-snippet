@@ -1,0 +1,13 @@
+.sort-select .ant-select-arrow {
+  transition: transform 0.4s;
+}
+
+.sort-select.ant-select-open .ant-select-arrow {
+  transform: rotate(180deg);
+}
+
+.view-duplicates-btn {
+  width: 100%;
+  color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
+}
